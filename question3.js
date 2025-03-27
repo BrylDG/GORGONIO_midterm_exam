@@ -1,4 +1,4 @@
-let tasks: { id: number; name: string; description: string }[] = []; // Array to store tasks
+let tasks: { id: number; name: string; description: string }[] = []; // Array to store tasks.
 let ID = 1; // Auto-incrementing ID for tasks
 
 // Add Task Function
